@@ -4,7 +4,7 @@
 
 Hello, my name is Joviscab and this is part of my learning to code journey!
 
-This project (not really a project, but exercises) is called Recursion and is part of the Javascript Course of The Odin Project. The idea of this is to put to practice all the recursion knowledge that I have acquired until now.
+This exercise is called Recursion and is part of the Javascript Course of The Odin Project. The idea of this exercise is to put to practice all the recursion knowledge that I have acquired until now.
 
 ## Skills
 
